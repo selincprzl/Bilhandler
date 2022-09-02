@@ -1,0 +1,1 @@
+{"Varevognlist":[{"Navn":"Selin","Pris":2098,"\u00C5r":2038,"Km":132000,"VarevogneList":[]}],"ListOfCars":[{"Navn":"Seli","Pris":123,"\u00C5r":123,"Km":123}],"ListAcces":[]}
